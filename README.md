@@ -69,7 +69,7 @@ Este projeto é de código aberto, publicado sob a licença MIT.
     </td>
     <td align="center" style="border: none;">
       <a href="https://github.com/Luana-Tomaz-Accorsi" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/139510758?s=400&u=f536b6f2f37ec4af893cb10f0f872ee9588ff606&v=4" width="115" style="border-radius: 50%;" alt="Luana Tomaz Accorsi"/><br>
+        <img src="https://avatars.githubusercontent.com/u/205548562?v=4" width="115" style="border-radius: 50%;" alt="Luana Tomaz Accorsi"/><br>
         <sub><b>Luana Tomaz Accorsi</b></sub>
       </a>
     </td>
