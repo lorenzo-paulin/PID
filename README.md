@@ -56,3 +56,22 @@ Abra os notebooks com [Jupyter](https://jupyter.org) ou [Google Colab](https://c
 ## 📜 Licença
 
 Este projeto é de código aberto, publicado sob a licença MIT.
+
+## 👥 Autores
+
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/lorenzo-paulin" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/139510758?s=400&u=f536b6f2f37ec4af893cb10f0f872ee9588ff606&v=4" width="115" style="border-radius: 50%;" alt="Lorenzo Julio Paulin"/><br>
+        <sub><b>Lorenzo Julio Paulin</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/Luana-Tomaz-Accorsi" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/139510758?s=400&u=f536b6f2f37ec4af893cb10f0f872ee9588ff606&v=4" width="115" style="border-radius: 50%;" alt="Luana Tomaz Accorsi"/><br>
+        <sub><b>Luana Tomaz Accorsi</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
